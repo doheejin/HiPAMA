@@ -19,7 +19,7 @@ Install below packages in your virtual environment before running the code.
 You can run below command on your virtual environment
 - `pip install -r requirements.txt`
 
-## Training and Evaluation (GOPT with SB Loss)
+## Training and Evaluation (HiPAMA)
 This bash script will run each model 5 times with ([0, 1, 2, 3, 4]).
 - `cd src`
 - `bash run_hipama.sh`
