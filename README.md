@@ -22,7 +22,7 @@ You can run below command on your virtual environment
 ## Training and Evaluation (GOPT with SB Loss)
 This bash script will run each model 5 times with ([0, 1, 2, 3, 4]).
 - `cd src`
-- `bash run_HiPAMA.sh`
+- `bash run_hipama.sh`
 
 Note that every run does not produce the same results due to the random elements.
 
