@@ -30,3 +30,18 @@ Note that every run does not produce the same results due to the random elements
 This bash script will run each model 5 times with ([0, 1, 2, 3, 4]).
 - `cd src`
 - `bash run_gopt.sh`
+
+## Citation
+Please cite our paper if you find this repository helpful.
+
+```
+@INPROCEEDINGS{10095733,
+  author={Do, Heejin and Kim, Yunsu and Lee, Gary Geunbae},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Hierarchical Pronunciation Assessment with Multi-Aspect Attention}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10095733}}
+```
