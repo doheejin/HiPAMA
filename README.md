@@ -26,7 +26,7 @@ This bash script will run each model 5 times with ([0, 1, 2, 3, 4]).
 
 Note that every run does not produce the same results due to the random elements.
 
-The results reported in the paper are the average of the last epoch results in five seeds.
+The reported results in the paper are the averages of the final epoch results for five different seeds.
 
 ## Run baseline (GOPT)
 This bash script will run each model 5 times with ([0, 1, 2, 3, 4]).
